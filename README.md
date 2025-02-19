@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**GillHapp/GillHapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Harpreet</h1>
+<h1 align="center">Hi 👋, I'm Harpreet</h1>
 <h3 align="center">**🛠️ Blockchain Engineer | DeFi & Web3 Specialist | Smart Contract Security** Experienced in **EVM, Solidity, CosmWasm, and Rust**, I specialize in **Layer 2 scaling (Polygon CDK, zkSync), AMM protocols, cross-chain interoperability, and decentralized identity**. I design and audit **high-performance smart contracts**, leveraging **Foundry, Hardhat, and formal verification** to ensure security. My expertise spans **modular blockchain frameworks, MEV optimization, and gas-efficient contract development**, integrating **oracles, zk-rollups, and bridging solutions** to enhance Web3 ecosystems. Passionate about blockchain architecture, protocol engineering, and next-gen cryptographic innovations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gillhapp&label=Profile%20views&color=0e75b6&style=flat" alt="gillhapp" /> </p>
@@ -49,12 +42,3 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gillhapp&show_icons=true&locale=en&layout=compact" alt="gillhapp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gillhapp&show_icons=true&locale=en" alt="gillhapp" /></p>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
