@@ -1,44 +1,100 @@
-<h1 align="center">Hi 👋, I'm Harpreet</h1>
-<h3 align="center">🛠️ Blockchain Engineer | DeFi & Web3 Specialist | Smart Contract Security Experienced in EVM, Solidity, CosmWasm, and Rust, I specialize in Layer 2 scaling (Polygon CDK, zkSync), AMM protocols, cross-chain interoperability, and decentralized identity. I design and audit high-performance smart contracts, leveraging Foundry, Hardhat, and formal verification to ensure security. My expertise spans modular blockchain frameworks, MEV optimization, and gas-efficient contract development, integrating oracles, zk-rollups, and bridging solutions to enhance Web3 ecosystems. Passionate about blockchain architecture, protocol engineering, and next-gen cryptographic innovations.</h3>
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gillhapp&label=Profile%20views&color=0e75b6&style=flat" alt="gillhapp" /> </p>
+# <img src="https://media.licdn.com/dms/image/v2/D4E16AQFk7bZUjX3IHA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1689757317393?e=1745452800&v=beta&t=7T4XVsFF3UPoKdyNbES3GwKusaolYkVlFHcU_FQAML4" width="100%" alt="Harpreet Singh Banner" />
 
-- 🔭 I’m currently working on [PolyLayer](https://github.com/GillHapp/layer2-evm)
+<h1 align="center">Hi 👋, I'm Harpreet Singh</h1>
+<h3 align="center">Blockchain Engineer | Web3 & DeFi Specialist | Smart Contract Security</h3>
 
-- 🌱 I’m currently learning **Modular Blockchain Development (CosmWasm, Substrate),Advanced Solidity Optimizations & Gas Efficiency, Huff&Yull, formal verification, solana, steller, cairo, starknet, go, account abstraction, TON/TACT**
+<p align="center">
+🚀 Experienced in <b>EVM, Solidity, CosmWasm, Rust, Cairo, Vyper</b>, I specialize in <b>Layer 2 scaling, AMM protocols, cross-chain interoperability, and decentralized identity</b>.  
+🔍 I design & audit <b>gas-efficient</b> smart contracts with <b>Foundry, Hardhat, Huff, Yul, and Formal Verification</b>.  
+⚡ Passionate about <b>MEV, zk-Rollups, bridging solutions, and cryptographic innovations</b> in Web3 ecosystems.  
+</p>  
 
-- 👯 I’m looking to collaborate on [CrossChainToken Transfer](https://github.com/GillHapp/cross-chain-swap-2)
+---
 
-- 🤝 I’m looking for help with **ZK-Rollups & Optimistic Rollups, Smart Contract Auditing, formal verification**
+## 🔭 Currently Working On  
+- **[PolyLayer](https://github.com/GillHapp/layer2-evm)** – A **Layer 2 blockchain** built using **Polygon CDK, Geth, and Kurtosis** , also on auditing, formal verification, solana, cosmwasm, vyper 
 
-- 👨‍💻 All of my projects are available at [https://personal-portfolio-gamma-virid-20.vercel.app/](https://personal-portfolio-gamma-virid-20.vercel.app/)
+## 🤝 Looking to Collaborate On  
+- **[CrossChainToken Transfer](https://github.com/GillHapp/cross-chain-swap-2)** – A cross-chain asset transfer protocol using **Equitos & EVM bridges**.  
 
-- 📝 Cyfrin updraft or CodeHawks [https://profiles.cyfrin.io/u/happybiostockcode07](https://profiles.cyfrin.io/u/happybiostockcode07)
+## 🌱 Currently Learning  
+- **Advanced Smart Contract Optimizations** *(Gas Efficiency, Huff, Yul)*  
+- **Formal Verification & Smart Contract Auditing**  
+- **Account Abstraction, ZK-Rollups, Cairo, Solana & TON/TACT**  
 
-- 💬 Hackathon(dorahack) **https://dorahacks.io/hacker/U_72792728b32e6a**
+## 📌 Open to Contributions  
+- **ZK-Rollups & Optimistic Rollups Research**  
+- **Cross-Chain Bridges & Modular Blockchain Development**  
 
-- 📫 How to reach me **happybiostockcode07040@gmail.com**
+---
 
-- 📄 Know about my experiences [https://harpreet-resume123.tiiny.site](https://harpreet-resume123.tiiny.site)
+## 📫 How to Reach Me  
 
-- ⚡ Fun fact **Am microbiologist as well, did my master in microbiology**
+<p align="center">
+<a href="https://linkedin.com/in/harpreet-singh-031528284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/ha4rpreet_singh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://profiles.cyfrin.io/u/happybiostockcode07" target="_blank"><img src="https://img.shields.io/badge/Cyfrin-000000?style=for-the-badge&logo=cyfrin&logoColor=white"></a>
+<a href="https://dorahacks.io/hacker/U_72792728b32e6a" target="_blank"><img src="https://img.shields.io/badge/DoraHacks-FF4500?style=for-the-badge&logo=dorahacks&logoColor=white"></a>
+<a href="https://personal-portfolio-gamma-virid-20.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="https://harpreet-resume123.tiiny.site" target="_blank"><img src="https://img.shields.io/badge/Resume-FF4081?style=for-the-badge&logo=readme&logoColor=white"></a>
+</p>  
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ha4rpreet_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ha4rpreet_singh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harpreet-singh-031528284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harpreet-singh-031528284/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24076725/ha4rpreet-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24076725/ha4rpreet-singh" height="30" width="40" /></a>
-<a href="https://medium.com/@happybiostockcode07040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@happybiostockcode07040" height="30" width="40" /></a>
-<a href="https://discord.gg/harpreet_53006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="harpreet_53006" height="30" width="40" /></a>
+## 🏗️ Tech Stack  
+
+### **Blockchain & Smart Contract Development**  
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/Vyper-2980B9?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=starknet&logoColor=white">
+<img src="https://img.shields.io/badge/CosmWasm-CC0000?style=for-the-badge&logo=cosmos&logoColor=white">
+<img src="https://img.shields.io/badge/Polygon%20CDK-8247E5?style=for-the-badge&logo=polygon&logoColor=white">
+<img src="https://img.shields.io/badge/zkSync-6528F7?style=for-the-badge&logo=zero&logoColor=white">
+<img src="https://img.shields.io/badge/Huff-FF4500?style=for-the-badge&logo=ethereum&logoColor=white">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### **Programming Languages**  
+<p>
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gillhapp&show_icons=true&locale=en&layout=compact" alt="gillhapp" /></p>
+### **Backend & Infrastructure**  
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gillhapp&show_icons=true&locale=en" alt="gillhapp" /></p>
+### **Frontend & dApps**  
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=gillhapp&show_icons=true&theme=radical" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gillhapp&show_icons=true&theme=radical&layout=compact" width="48%">  
+</p>
+
+---
+
+### 🚀 Let's Connect & Build Together!  
+If you're interested in **collaborating on cutting-edge blockchain and Web3 projects**, feel free to reach out. Let's innovate the decentralized future together!  
+
+---
