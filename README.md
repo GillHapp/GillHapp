@@ -50,10 +50,13 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
 <img src="https://img.shields.io/badge/Vyper-2980B9?style=for-the-badge&logo=ethereum&logoColor=white">
 <img src="https://img.shields.io/badge/Cairo-000000?style=for-the-badge&logo=starknet&logoColor=white">
-<img src="https://img.shields.io/badge/CosmWasm-CC0000?style=for-the-badge&logo=cosmos&logoColor=white">
+<img src="https://img.shields.io/badge/solana-CC0000?style=for-the-badge&logo=solana&logoColor=white">
 <img src="https://img.shields.io/badge/Polygon%20CDK-8247E5?style=for-the-badge&logo=polygon&logoColor=white">
+<img src="https://img.shields.io/badge/CosmWasm-CC0000?style=for-the-badge&logo=cosmos&logoColor=white">
 <img src="https://img.shields.io/badge/zkSync-6528F7?style=for-the-badge&logo=zero&logoColor=white">
 <img src="https://img.shields.io/badge/Huff-FF4500?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/ton-6528F7?style=for-the-badge&logo=ton&logoColor=white">
+<img src="https://img.shields.io/badge/steller-FF4500?style=for-the-badge&logo=steller&logoColor=white">
 </p>
 
 ### **Programming Languages**  
