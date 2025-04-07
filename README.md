@@ -91,8 +91,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gillhapp&show_icons=true&theme=radical" width="48%">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gillhapp&show_icons=true&theme=radical&layout=compact" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api?username=GillHapp&show_icons=true&theme=radical" width="48%">  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GillHapp&show_icons=true&theme=radical&layout=compact" width="48%">  
 </p>
 
 
